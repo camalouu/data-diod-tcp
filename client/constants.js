@@ -1,0 +1,4 @@
+const ENDOFFILE = "==ENDOFFILE=="
+const HASHSEPARATOR = "==HASHSEPARATOR=="
+
+module.exports = { ENDOFFILE, HASHSEPARATOR }
